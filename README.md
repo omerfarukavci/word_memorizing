@@ -11,3 +11,5 @@ This project is Personal Dictionary and Memorizing application.
   - word_practice: There are "username" and the words registered by this username. At the same time, there is information about word power, how many searches are made, how many times a practice is made.
   - words: It is the database containing the word list. "id", "word" and "word_definition" information is included.
 Due to workload and limited time, some checks could not be made, they can be completed. 
+
+  - Apache License 2.0 used.
